@@ -1,6 +1,6 @@
 # nemesis — Threat Intelligence Platform. AI-powered threat intelligence platform
 
-Threat Intelligence Platform. AI-powered threat intelligence platform. nemesis gives you a focused, inspectable implementation of that idea.
+Threat Intelligence Platform. AI-powered threat intelligence platform.
 
 ## Why nemesis
 
